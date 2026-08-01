@@ -14,3 +14,7 @@
     --hint-yellow: #FCf1cc;
     --pure-white: #fff;
 }
+
+body{
+    background: var(--eye-ball);
+}
