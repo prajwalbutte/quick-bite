@@ -83,6 +83,9 @@ li{
     box-shadow: rgba(0, 0, 0, 0.1) 0 2px 1px;
 
 }
+.btn:hover{
+    background: var(--lead);
+}
 
 
 
