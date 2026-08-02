@@ -18,3 +18,145 @@
 body{
     background: var(--eye-ball);
 }
+
+/* BASIC STYLING */
+
+a{
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--lead)
+}
+.flex{
+    display: flex;
+    align-items: center;
+    
+}
+li{
+    list-style: none;
+    display: flex;
+   
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.gap-3{
+    gap: 3rem;
+}
+
+.wrapper{
+    max-width: 1400px;
+    margin: auto;
+    padding-inline: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* HEADER STYLING */
+.navbar{
+    min-height: 14vh;
+}
+
+.logo{
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--gold);
+}
+
+
+.btn{
+    display: inline-block;
+    padding: .9rem 2rem;
+    background: var(--gold);
+    border-radius:1rem;
+    font-size:1.1rem;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 1px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* SECTIONS STYLING */
+
+
+
+
+/* FOOTER STYLING */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+MEDIA QUERY */
