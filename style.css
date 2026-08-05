@@ -135,6 +135,11 @@ li{
 
 /* SECTIONS STYLING */
 
+.hero-section{
+    background: var(--gold );
+    min-height: calc(100vh - 14vh);
+}
+
 
 
 
